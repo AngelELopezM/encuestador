@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encuestador_itla", "Encuestador_itla\Encuestador_itla.csproj", "{1C167FE3-947B-400B-9D86-12737B665E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database", "database\database.csproj", "{8FA5B758-1217-4EC1-A8D1-FC03A676D812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C167FE3-947B-400B-9D86-12737B665E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C167FE3-947B-400B-9D86-12737B665E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C167FE3-947B-400B-9D86-12737B665E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C167FE3-947B-400B-9D86-12737B665E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA5B758-1217-4EC1-A8D1-FC03A676D812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA5B758-1217-4EC1-A8D1-FC03A676D812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA5B758-1217-4EC1-A8D1-FC03A676D812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA5B758-1217-4EC1-A8D1-FC03A676D812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34872736-317F-4650-8C1F-4B2CEE99ADA6}
+	EndGlobalSection
+EndGlobal
